@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CS-course CS ???? 操作系统
+title: CS-course CS ???? 计算机网络
 tags: mathjax
 math: true
 date: 2024-6-29 21:00 +0800
